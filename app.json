@@ -7,9 +7,11 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/burger.png",
+      "image": "./assets/images.jpg",
       "resizeMode": "contain",
-      "backgroundColor": "#FFFAAA"
+      "backgroundColor": "white",
+      "imageResizeMode":"cover"
+      
     },
     "ios": {
       "supportsTablet": true
